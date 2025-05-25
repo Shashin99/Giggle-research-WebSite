@@ -1162,15 +1162,6 @@ canvas {
     background-size: cover;
 }
 
-@media (max-width: 768px) {
-    canvas {
-        background-attachment: scroll; /* Prevent issues on mobile browsers */
-        background-position: top;
-        background-size: contain; /* Or cover, depending on your image aspect ratio */
-    }
-}
-
-
 #whiteOverlay {
     position: absolute;
     top: 0;
