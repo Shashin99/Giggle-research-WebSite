@@ -39,7 +39,12 @@ The **Giggle Research Website** serves as a central hub to showcase our:
 
 ## 👨‍👩‍👧‍👦 Team Giggle (R25-232)
 
-add members
+| Name                      | Role              | Contribution Highlights |
+|---------------------------|-------------------|--------------------------|
+| *Hanshani S. G. H. S.* | Team Leader       | Adaptive question generation to identify students' basic math skills and personalize the activities. |
+| *Kalpajith K. L. S.*    | Team Member       | Addresses the challenges faced by students with Semantic Dyscalculia using Augmented Reality (AR). |
+| *Wimaladharma T. H. Y. B.* | Team Member   | Addresses the challenges faced by students with Procedural Dyscalculia using Gesture Technologies. |
+| *Rajapaksha C. S.*      | Team Member       | Addresses the challenges faced by students with Verbal Dyscalculia using Voice Recognition Technologies. |
 
 ---
 
