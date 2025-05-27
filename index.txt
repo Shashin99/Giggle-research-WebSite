@@ -1,0 +1,77 @@
+    <!--====== HEADER PART ENDS ======-->
+
+    <!--====== Literature Survey PART START ======-->
+
+    <section id="literature" class="services-area pt-100  pb-100">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-7">
+                    <div class="section-title text-center pb-25">
+                        <h3 class="title">Literature Survey</h3>
+                        <p class="text">Enhancing concentration and practical thinking of students with dyscalculia
+                        </p>
+                    </div> <!-- section title -->
+                </div>
+            </div> <!-- row -->
+            <div class="custom-padding mt-15">
+                <div class="wow fadeInUpBig" data-wow-duration="1.3s" data-wow-delay="0.3s">
+                    <p class="p-text">Recent advancements in the use of machine learning for identifying dyscalculia have yielded promising outcomes. 
+                        Prior studies have explored various algorithms including Random Forest, Decision Trees, and Regression Models for early prediction, 
+                        particularly in young learners[1]. However, these systems often overlook adaptive questioning tailored to individual learning levels, 
+                        which is essential for sustained engagement and assessment accuracy. 
+                        Giggle addresses this by dynamically adjusting question complexity based on each child’s progress and performance. </p>
+                    <br>
+
+                    <div class="wow fadeInUpBig" data-wow-duration="1.3s" data-wow-delay="0.4s">
+                        <p class="p-text">Research further emphasizes the importance of monitoring attention and emotional states to better understand learning 
+                        barriers. Although tools like Lumosity and CogniFit improve general cognition, they lack the capacity to detect real-time engagement 
+                        levels or emotional responses. Some systems, such as those using CNN or VR platforms, offer immersive experiences but still fall 
+                        short in tracking behavioral responses[2]. 
+                        Giggle incorporates emotion and concentration monitoring to ensure students receive timely and supportive intervention during learning. </p>
+                    </div>
+                    <br>
+
+                    <div class="wow fadeInUpBig" data-wow-duration="1.3s" data-wow-delay="0.5s">
+                        <p class="p-text">Another gap in existing literature is the insufficient support for teaching mathematical procedures step-by-step. 
+                        Tools such as "KidKanit"[3] and "Ganitha Piyasa" [4] provide visual aids and handwriting support, yet they do not systematically 
+                        reinforce procedural math or gesture tracking. 
+                        Giggle bridges this gap by allowing students to write each step, track their sequence accuracy, and reinforce rules and patterns critical for long-term retention. </p>
+                    </div>
+                    <br>
+
+                    <div class="wow fadeInUpBig" data-wow-duration="1.3s" data-wow-delay="0.6s">
+                        <p class="p-text">Lastly, many studies explore verbal interactions through NLP and speech recognition, but most lack structure in how 
+                        verbal math tasks are practiced or assessed[5]. Existing apps may allow basic voice inputs or chatbot communication but do not provide 
+                        real-time feedback on pronunciation accuracy or progress. 
+                        Giggle strengthens this component by evaluating verbal responses, identifying pronunciation difficulties, and offering corrective feedback to improve oral math proficiency.  </p>
+                    </div>
+
+                </div>
+                <div class="mt-10 wow fadeInUpBig" data-wow-duration="1.3s" data-wow-delay="0.8s">
+                    <br>
+                    <p class="text-small"><u>References</u></p>
+                    <br>
+                    <a class="ref-links" href="#"
+                                    target="_blank"><p class="text-small">[1] N. Giri, T. Saini, K. Bhole, A. Bhosale, T. Shetty and A. Subramanyam, "Detection of Dyscalculia Using Machine Learning," Proceedings of the Fifth International Conference on Communication and Electronics Systems (ICCES 2020), 2020, pp. 1-5. and intervention.</p></a>
+                    <br><br>
+                    <a class="ref-links" href="#"
+                                    target="_blank"> <p class="text-small">[2] M. Materazzini, G. Morciano, J. M. Alcalde-Llergo, E. Yeguas-Bolivar, A. Zingoni and J. Taborri, "VR-based silent reading and Rosenberg tests: machine-learning approach to identify learning disorders," in Proceedings IEEE International Conference on Metrology for eXtended Reality, Artificial Intelligence and Neural Engineering (MetroXRAINE), 2024.</p></a>
+
+                    <br><br>
+                    <a class="ref-links" href="#"
+                                    target="_blank"> <p class="text-small">[3] O. Poobrasert and W. Gestubtim, "Development of assistive technology for students with dyscalculia," in Proceedings Second International Conference on E-Learning and E-Technologies in Education (ICEEE) , 2013, pp. 60-63.</p></a>
+                    
+                                    <br><br>
+                    <a class="ref-links" href="#"
+                                    target="_blank"> <p class="text-small">[4] A. Upathissa, J. Jayakody, R. Fernando, G. Thilakarathne, S. Rajapaksha and T. Thilakarathna, "Ganitha Piyasa: Effective Lesson Delivery Method for Graphical Dyscalculia Students," in Proceedings 5th International Conference on Advancements in Computing (ICAC) , 2023, pp. 263-267</p></a>
+
+                    <br><br>
+                    <a class="ref-links" href="#"
+                                    target="_blank"> <p class="text-small">[5] Y. Tao, "An Intelligent Voice Interaction Model Based on Mobile Teaching Environment," in Proceedings International Conference on Intelligent Transportation, Big Data & Smart City (ICITBS), 2019. </p></a>
+
+                </div>
+            </div>
+        </div> <!-- container -->
+    </section>
+
+    <!--====== Literature Survey PART ENDS ======-->
