@@ -1,3 +1,4 @@
+
 # Giggle: A Place Where Every Child Learns to Love Math 🎓🧠📱
 
 > An AI-powered adaptive learning platform designed to support children with dyscalculia through real-time feedback, emotional monitoring, and engaging multisensory technologies.
